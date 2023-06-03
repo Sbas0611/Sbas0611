@@ -1,5 +1,5 @@
 ### Hi there 🤙
-### My name is Sebastian Arboleda <img src="https://github.com/images/mona-whisper.gif" width="50px" align="justify"/>
+<img src="https://github.com/images/mona-whisper.gif" width="50px" align="justify"/>
 
 # 💫 About Me:
 
