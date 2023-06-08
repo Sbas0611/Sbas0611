@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sebasti%C3%A1n-arboleda">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=5" />
+    <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="https://discord.gg/Arboleda#3156">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark&perline=5" />
+  <a href="mailto:dev.arboleda@gmail.com">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
   </a>
-  <a href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arboleda.sebastian">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=5" />
+  <a href="https://instagram.com/arboleda.sebastian">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
   </a>
 </p>
 
