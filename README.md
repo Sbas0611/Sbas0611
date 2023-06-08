@@ -1,4 +1,4 @@
-### Hi there 🤙
+#Hi there 🤙
 
 <img src="https://github.com/images/mona-whisper.gif" width="50px" align="right"/>
 
@@ -6,9 +6,19 @@
 
 🌱 I’m currently learning Face recognition, Nextjs, Three.js anda OpenCv.<br>💬 Ask me about Software and hardware
 
-## 🌐 Socials:
+# 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Arboleda#3156) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arboleda.sebastian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebasti%C3%A1n-arboleda)
+<p align="center">
+  <a href="https://linkedin.com/in/sebasti%C3%A1n-arboleda">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=5" />
+  </a>
+  <a href="https://discord.gg/Arboleda#3156">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark&perline=5" />
+  </a>
+  <a href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arboleda.sebastian">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=5" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
