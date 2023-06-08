@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/images/mona-whisper.gif" width="50px" align="right"/>
-  <h1> hi everyone,<br> I'm Sebastian Arboleda</h1>
+  <h1> Hi everyone,<br> I'm Sebastian Arboleda</h1>
 </div>
 
 # 💫 About Me:
