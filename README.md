@@ -35,4 +35,5 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/Sbas0611/Sbas0611/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake Animation](dist/github-contribution-grid-snake.gif)
+
