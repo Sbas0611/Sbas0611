@@ -14,9 +14,6 @@
   <a href="mailto:dev.arboleda@gmail.com">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
   </a>
-  <a href="https://instagram.com/arboleda.sebastian">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
-  </a>
 </p>
 
 # 💻 Tech Stack:
